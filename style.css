@@ -1,0 +1,124 @@
+body {
+  margin: 50px;
+  font-family: "Montserrat", serif;
+  font-size: 26px;
+  color: #96ffff; /*цвет параграфоф*/
+  background-image: url(images/bc.png);
+  background-color: #7a7a7b;
+}
+
+p {
+	color: white;
+}	
+	
+.punkt {
+	color: white;
+}	
+
+.poov {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #ac2b2f;
+	font-size: 250%;
+	height: 85px;
+	font-family: 'Pacifico', cursive;
+}
+
+.carousel img {
+	width: 500px;
+	height: 400px;
+	margin: auto;
+}	
+
+/*.carousel .carousel-item {
+	width: 500px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+}
+
+.carousel-item img {
+	display: flex;
+	justify-content: center;
+	/*margin: auto;*
+	width: 500px;
+	height: 400px;
+}
+
+.carousel-inner img {
+	margin: auto;
+	display: flex;
+	justify-content: center;
+}
+
+.carousel-inner {
+	display: flex;
+	/*justify-content: center
+}*/
+
+.nav {
+	  display: flex;
+	  justify-content: space-around;
+	  color: #FFF57F;
+	  font-size: 150%;
+	 /* background-color: white;*/
+}
+
+nav .navbar-nav li a {
+	color: #ac2b2f;
+}	
+
+.elem {
+	color: white;
+	font-size: 115%;
+	/*text-decoration-color: white;*/
+	/*border: 2px solid #FFF57F;*/
+	margin: 0;
+	padding: 20px 115px;
+}
+
+.container {
+  max-width: 928px;
+  /*margin: 150px;*/
+  padding-left: 5px;
+  padding-bottom: 35px;
+}
+
+.heading {
+display: flex;
+	justify-content: left;
+	color: #FFF57F;
+	font-size: 230%;
+}
+
+.header-email {
+	color: white;
+}
+
+.header-phone {
+	color: white;
+}
+
+
+/*.page-footer .container {
+  max-width: 1408px;
+  text-align: right;
+}*/
+
+.rer {
+	color: #ac2b2f;
+}
+
+.page-footer {
+  background-color: #212529;
+  height: 75px;
+}
+
+/*.page-footer a {
+  margin-left: 56px;
+  color: inherit;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}*/
